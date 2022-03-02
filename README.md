@@ -2,4 +2,4 @@
 
 ## Recipe website!
 
-**First attempt at making a website from scratch**
+First attempt at making a website from scratch
