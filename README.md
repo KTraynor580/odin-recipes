@@ -1,3 +1,5 @@
 # odin-recipes
-Recipe website!
+
+## Recipe website!
+
 First attempt at making a website from scratch
