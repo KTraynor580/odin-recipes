@@ -1,8 +1,28 @@
 div {
     background-color: red;
-    color: white;
-    font-size: 32px;
-    text-align: center;
+    color:maroon;
+    font-size: 20px;
     font-weight: bold;
+ 
 }
 
+.heading1 {
+    background-color: #f46107;
+    color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.button-list {
+    list-style: none;
+    padding-bottom: 0.5rem;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.ingredients {
+    background-color:khaki;
+    width: fit-content;
+}
